@@ -11,4 +11,4 @@ Predicted house prices using linear regression on a residential dataset.
 
 ## Results  
 - R² Score: ~0.65  
-- Key features: bathrooms, air conditioning, hot water heating
+
