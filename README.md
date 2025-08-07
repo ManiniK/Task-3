@@ -1,7 +1,6 @@
 # Task-3
 # Housing Price Prediction
 
-## Overview  
 Predicted house prices using linear regression on a residential dataset.
 
 ## Method  
